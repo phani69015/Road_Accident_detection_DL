@@ -38,3 +38,7 @@ To use the dataset:
 1. Download the dataset from [[link to dataset](https://drive.google.com/file/d/1BtYMCsSr3LlsQ2oWpvLetAutMP9ln-VT/view?usp=sharing)].
 2. Extract the data to the `data/` folder in the project directory.
 
+
+### Demonstration 
+
+[![Watch the video](https://github.com/phani69015/Road_accident_detection_DL/blob/main/Demo.gif)](https://github.com/phani69015/Road_accident_detection_DL/blob/main/Demo.gif)
