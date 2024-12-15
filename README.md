@@ -6,11 +6,8 @@ This project focuses on developing an AI-driven system to detect and predict tra
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Model Performance Analysis](#model-performance-analysis)
-- [Contributing](#contributing)
-- [License](#license)
+- [Demonstration](#Demonstration)
+
 
 ## Introduction
 
