@@ -35,6 +35,6 @@ Key features of the system:
 The dataset used for training and testing the models includes traffic footage and accident data. The dataset contains labeled images and videos, which are processed and used for training the deep learning models.
 
 To use the dataset:
-1. Download the dataset from [link to dataset].
+1. Download the dataset from [[link to dataset](https://drive.google.com/file/d/1BtYMCsSr3LlsQ2oWpvLetAutMP9ln-VT/view?usp=sharing)].
 2. Extract the data to the `data/` folder in the project directory.
 
